@@ -22,7 +22,7 @@ It is a static website for a fictional restaurant, designed to attract customers
 - Footer with quick links and social media icons
 
 ## Preview
-[Add a screenshot or GIF of your website here]![Screenshot 2024-07-17 225331](https://github.com/user-attachments/assets/505b85f1-8d2c-433f-9804-16caf3b38d40)
+(https://github.com/user-attachments/assets/505b85f1-8d2c-433f-9804-16caf3b38d40)
 
 
 ## How to Use
