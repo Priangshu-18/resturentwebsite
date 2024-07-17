@@ -29,6 +29,7 @@ It is a static website for a fictional restaurant, designed to attract customers
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the different sections of the website.
+4. Keep all the images in the images folder and all the 3(delivery.png, fresh.png, discount.png) icons in the icons folder.
 
 ## Customization
 Feel free to customize the website to fit your needs:
