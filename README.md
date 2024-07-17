@@ -22,7 +22,7 @@ It is a static website for a fictional restaurant, designed to attract customers
 - Footer with quick links and social media icons
 
 ## Preview
-https://github.com/user-attachments/assets/505b85f1-8d2c-433f-9804-16caf3b38d40
+[Home Page](https://github.com/user-attachments/assets/505b85f1-8d2c-433f-9804-16caf3b38d40)
 
 
 ## How to Use
@@ -43,6 +43,7 @@ The website is designed to be responsive, adapting to different screen sizes:
 
 ## Connect With Us
 For any questions or suggestions, feel free to reach out:
-- [Add your contact information or social media links here]
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/priangshu-mukherjee-609142239/)
+- Email: priangshu18@gmail.com
 
 Enjoy exploring and customizing the restaurant website! Bon appétit! 🍽️👨‍🍳
