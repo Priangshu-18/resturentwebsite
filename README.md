@@ -1,6 +1,6 @@
-# Restaurant Website
+# Delicious Eats Restaurant Website
 
-Welcome to my restaurant website project! This responsive website showcases our menu, features, and more using HTML and CSS.
+Welcome to the Delicious Eats restaurant website project! This responsive website showcases our menu, features, and more using HTML and CSS.
 
 ## Table of Contents
 - [About](#about)
@@ -12,7 +12,7 @@ Welcome to my restaurant website project! This responsive website showcases our 
 - [Connect With Us](#connect-with-us)
 
 ## About
-It is a static website for a fictional restaurant, designed to attract customers and showcase our offerings. The site is built using HTML for structure and CSS for styling, creating an appealing and user-friendly experience.
+Delicious Eats is a static website for a fictional restaurant, designed to attract customers and showcase our offerings. The site is built using HTML for structure and CSS for styling, creating an appealing and user-friendly experience.
 
 ## Features
 - Responsive navigation bar with logo
@@ -22,7 +22,7 @@ It is a static website for a fictional restaurant, designed to attract customers
 - Footer with quick links and social media icons
 
 ## Preview
-[Home Page](https://github.com/user-attachments/assets/505b85f1-8d2c-433f-9804-16caf3b38d40)
+[Home Page]![Screenshot 2024-07-17 225331](https://github.com/user-attachments/assets/209b7d76-ac26-461a-8dba-780060de0e12)
 
 
 ## How to Use
@@ -46,4 +46,4 @@ For any questions or suggestions, feel free to reach out:
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/priangshu-mukherjee-609142239/)
 - Email: priangshu18@gmail.com
 
-Enjoy exploring and customizing the restaurant website! Bon appétit! 🍽️👨‍🍳
+Enjoy exploring and customizing the Delicious Eats restaurant website! Bon appétit! 🍽️👨‍🍳
